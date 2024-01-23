@@ -44,7 +44,7 @@
 
 Залогиниваемся в БД Master
 
-	`mysql -u root -prootsecret`
+	mysql -u root -prootsecret
  
 Заведение пользователя для репликации
 
@@ -61,7 +61,7 @@
 
 Создаём БД test1 на Master
 
-	`CREATE DATABASE menagerie;`
+	CREATE DATABASE test1;
 
 Скриншот заведения тестовой БД
 
